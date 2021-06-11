@@ -1,0 +1,13 @@
+/* h1,
+p {
+  font-family: Lato;
+} */
+
+* {
+  margin: 0;
+  font-family: Lato;
+}
+
+.app {
+  background-color: #111;
+}
